@@ -1,30 +1,45 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: Moi
+featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+subtitle: "# I'm Sakib.​ I develop Games & ​​Applications"
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
+# Welcome to My Digital Playground
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+I'm **Sakib Hasan**, a senior Unity developer with 6+ years of experience specializing in gameplay systems, AR/VR, WebGL, and cross-platform mobile and desktop applications. I’m passionate about crafting clean, maintainable code and building immersive, scalable systems that deliver real-world value.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+## Professional Summary
 
-# Features
+Currently pursuing a Master's in Software, Web, and Cloud at Tampere University (Finland), I have contributed to diverse real-time applications—from multiplayer games to interactive expos and virtual experiences. I also excel at creating custom Unity Editor tools that enhance team workflows.
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+## Key Skills & Technologies
 
-## Get started
+🧠 **Programming Languages:** C#, Python, Java, C, C++, Haskell
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+🧰 **Game Engines & Tools:** Unity (2D/3D), Unreal (basic), Rider, Visual Studio, VSCode
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+🧪 **Unity Editor Tooling:** Custom Inspector Windows, ScriptableObjects, Profiling Tools, Addressables
+
+📱 **Platforms:** iOS, Android, macOS, Windows, WebGL
+
+🕶️ **AR/VR Expertise:** ARFoundation, Vuforia, Oculus VR, Microsoft Kinect V2, Azure Kinect
+
+🔁 **DevOps & Workflow:** Git, GitHub, GitLab, Bitbucket, CI/CD (Jenkins), Trello, JIRA
+
+🧩 **Backend Integration:** Firebase, REST API, gRPC
+
+🔌 **Other Tools:** Photon Multiplayer, Unity UI, Spine, NDI, Analytics
+
+## Let's Connect
+
+Want to build something incredible with AR/VR, real-time systems, or Unity tools? I'm always open to exciting collaborations. Feel free to explore my [GitHub](https://github.com/sakibh20)or connect on [LinkedIn](https://linkedin.com/in/skbsec).
+
+📬 [sakibh20@gmail.com](mailto:sakibh20@gmail.com)
+
+📱 +358 417 432 173
+
+🌍 Tampere, Finland
