@@ -244,17 +244,17 @@ collections: # A list of collections the CMS should be able to edit
         label: 'Resume'
         name: 'resume'
         fields:
-      - {
-          label: Template,
-          name: template,
-          widget: hidden,
-          default: DefaultPage,
-        }
-      - { label: Slug, name: slug, widget: string }
-      - { label: Title, name: title, widget: string }
-      - { label: Featured Image, name: featuredImage, widget: image }
-      - { label: Body, name: body, widget: markdown }
-      - label: 'Meta'
+          - {
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: DefaultPage,
+            }
+          - { label: Slug, name: slug, widget: hidden, default: '' }
+          - { label: Title, name: title, widget: string }
+          - { label: Featured Image, name: featuredImage, widget: image }
+          - { label: Body, name: body, widget: markdown }
+                - label: 'Meta'
         required: false
         name: 'meta'
         widget: 'object'
