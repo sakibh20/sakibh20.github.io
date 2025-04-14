@@ -8,6 +8,8 @@ excerpt: Mojo Haat To Home is a festive mini-game developed for Mojo as part of
   their Eid al-Adha marketing campaign. The game was designed to engage users
   through interactive gameplay and reward selected winners with exclusive prizes
   upon completion.
+categories:
+  - category: Games
 ---
 ### Mojo Haat To Home
 >Alienide Interactive Ltd.
