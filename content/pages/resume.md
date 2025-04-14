@@ -2,9 +2,9 @@
 template: DefaultPage
 slug: resume
 title: Resume
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
+featuredImage: https://ucarecdn.com/701301ca-50ef-49d5-a966-10aaa919a000/
 meta:
-  description: 
+  description: null
   title: Resume of Sakib
 ---
 **MD SAKIB HASAN**  
