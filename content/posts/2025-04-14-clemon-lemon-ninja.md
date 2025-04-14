@@ -3,6 +3,7 @@ template: SinglePost
 title: Clemon Lemon Ninja
 status: Published
 date: 2025-04-14
+featuredImage: https://ucarecdn.com/b268ec95-8125-42d4-bbe3-81786619ae83/
 excerpt: Clemon Lemon Ninja is a WebGL game inspired by Fruit Ninja, developed
   for a promotional campaign by Clemon. Players slice flying lemons to score
   points while enjoying daily rewards as part of the campaign.
