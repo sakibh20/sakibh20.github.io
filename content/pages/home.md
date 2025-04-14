@@ -36,7 +36,7 @@ Currently pursuing a Master's in Software, Web, and Cloud at Tampere University 
 
 ## Let's Connect
 
-Want to build something incredible with AR/VR, real-time systems, or Unity tools? I'm always open to exciting collaborations. Feel free to explore my [GitHub](https://github.com/sakibh20)or connect on [LinkedIn](https://linkedin.com/in/skbsec).
+Want to build something incredible with AR/VR, real-time systems, or Unity tools? I'm always open to exciting collaborations. Feel free to explore my [GitHub](https://github.com/sakibh20) or connect on [LinkedIn](https://linkedin.com/in/skbsec).
 
 📬 [sakibh20@gmail.com](mailto:sakibh20@gmail.com)
 
