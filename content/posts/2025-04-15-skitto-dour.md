@@ -3,6 +3,7 @@ template: SinglePost
 title: Skitto Dour
 status: Published
 date: 2025-04-15
+featuredImage: https://ucarecdn.com/18047ff0-09bd-4d31-ad9a-57bcc992d264/
 excerpt: This project highlighted the successful combination of fun, competitive
   gameplay with backend systems that ensured fairness and campaign-driven player
   engagement.
