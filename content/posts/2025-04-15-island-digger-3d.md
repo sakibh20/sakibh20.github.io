@@ -3,9 +3,9 @@ template: SinglePost
 title: Island Digger 3D
 status: Published
 date: 2025-04-15
-featuredImage: https://ucarecdn.com/5901c489-89d0-471d-8c53-734c4d8a0d1b/
-excerpt: This title blends relaxing idle mechanics with light action elements, making it perfect for casual mobile gamers looking for long-term engagement.
-
+featuredImage: https://ucarecdn.com/e8909a20-4e0a-4615-9034-e7c1f326dc34/
+excerpt: This title blends relaxing idle mechanics with light action elements,
+  making it perfect for casual mobile gamers looking for long-term engagement.
 categories:
   - category: Games
 ---
@@ -20,7 +20,7 @@ categories:
 
 Players dig through terrain, **break stones**, and **collect valuable resources** to expand and customize their island. But it's not all peaceful—**monsters may attack**, requiring quick action and upgrades to defend your progress.
 
-Core Gameplay:
+**Core Gameplay:**
 - **Idle Resource Gathering**: Dig and collect even while offline  
 - **Island Expansion**: Unlock new areas and build custom structures  
 - **Monster Encounters**: Defend your island from surprise attacks  
