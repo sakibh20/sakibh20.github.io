@@ -3,6 +3,7 @@ template: SinglePost
 title: Scriptable Object Custom Inspector
 status: Published
 date: 2025-04-15
+featuredImage: https://ucarecdn.com/3631fe18-ea18-41f5-a3ed-119386495008/
 excerpt: This tool addresses that by displaying only the necessary fields for
   the actual subclass type, streamlining the editing experience.
 categories:
