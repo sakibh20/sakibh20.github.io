@@ -6,6 +6,8 @@ date: 2025-04-15
 featuredImage: https://ucarecdn.com/3631fe18-ea18-41f5-a3ed-119386495008/
 excerpt: Unity Custom Editor Window for ScriptableObject Serialization &
   Addressables Integration
+categories:
+  - category: Tools
 ---
 # Unity Custom Editor Window for ScriptableObject Serialization & Addressables Integration
 
