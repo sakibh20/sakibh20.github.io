@@ -15,8 +15,6 @@ This project showcases a **custom Unity Inspector** built to simplify editing co
 
 This tool addresses that by displaying **only the necessary fields** for the actual subclass type, streamlining the editing experience.
 
-[![Watch the Demo](https://img.youtube.com/vi/o2PgCTTTR_A/0.jpg)](https://youtu.be/o2PgCTTTR_A)
-
 ---
 
 ## ✨ Key Features
