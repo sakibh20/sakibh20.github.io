@@ -3,7 +3,7 @@ template: HomePage
 slug: ""
 title: Moi
 featuredImage: https://ucarecdn.com/701301ca-50ef-49d5-a966-10aaa919a000/-/preview/744x200/
-subtitle: "# I'm Sakib.​ I develop Games & ​​Applications"
+subtitle: "# I'm Sakib.​ I develop Games & ​​Applications."
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
