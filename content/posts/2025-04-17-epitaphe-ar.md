@@ -3,6 +3,7 @@ template: SinglePost
 title: Epitaphe AR
 status: Published
 date: 2025-04-17
+featuredImage: https://ucarecdn.com/4d9afbd7-4219-4ef0-96de-56e5c76abc9c/
 excerpt: "Epitaphe AR is an Augmented Reality-based e-commerce solution designed
   to help businesses promote and sell their products interactively through AR. "
 categories:
