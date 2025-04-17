@@ -3,6 +3,7 @@ template: SinglePost
 title: Bijoy Itihas
 status: Published
 date: 2025-04-17
+featuredImage: https://ucarecdn.com/efe436ab-2487-4c6e-8171-b95a3b27020a/
 excerpt: "Robi Bijoy Itihas (translated: History of Victory) is an educational
   and interactive Augmented Reality application that commemorates Bangladesh’s
   journey to independence. "
