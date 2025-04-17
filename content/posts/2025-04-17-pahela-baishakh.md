@@ -3,6 +3,7 @@ template: SinglePost
 title: Pahela Baishakh
 status: Published
 date: 2025-04-17
+featuredImage: https://ucarecdn.com/41435bdb-0e61-4f90-9e57-7422fca3b7c7/
 excerpt: Evaly Pahela Baishakh is a virtual simulation game developed for Evaly
   to celebrate Pahela Baishakh, the first day of the Bengali calendar, amid the
   Covid-19 pandemic.
