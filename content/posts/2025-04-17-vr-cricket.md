@@ -3,6 +3,7 @@ template: SinglePost
 title: VR Cricket
 status: Published
 date: 2025-04-17
+featuredImage: https://ucarecdn.com/38c422be-9a41-4fb7-af47-bc93d73642c5/
 excerpt: "VR Cricket is an immersive virtual reality sports experience developed
   for event activation purposes. "
 categories:
