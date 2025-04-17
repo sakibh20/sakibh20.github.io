@@ -3,6 +3,7 @@ template: SinglePost
 title: Furniture Lab
 status: Published
 date: 2025-04-17
+featuredImage: https://ucarecdn.com/aab7d7c8-c16e-41b7-88d5-d06dac9bf9a5/
 excerpt: Furniture Lab is an Augmented Reality-based sales solution designed for
   furniture stores and showrooms.
 categories:
