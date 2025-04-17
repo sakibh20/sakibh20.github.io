@@ -50,15 +50,6 @@ Ideal for games with **procedural content, large item databases, or layered game
 
 ---
 
-## 📹 Demo Video & GitHub Link
-
-
-[![Github Repo](https://ucarecdn.com/f9451599-8419-47d2-b35f-ed3ecc76e923/-/preview/280x80/)](https://github.com/sakibh20/custom-editor-window-sv)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/worTyFjI8Jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
 ## 🔧 Built With
 
 - Unity Editor API (CustomWindow, EditorGUILayout, Tabs)
