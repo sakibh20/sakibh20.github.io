@@ -26,14 +26,6 @@ This tool addresses that by displaying **only the necessary fields** for the act
 
 ---
 
-## 📹 Demo Video & GitHub Link
-
-[![Github Repo](https://ucarecdn.com/f9451599-8419-47d2-b35f-ed3ecc76e923/-/preview/280x80/)](https://github.com/sakibh20/custom-inspector-sv)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o2PgCTTTR_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
 ## 📂 Project Context
 
 This tool was part of a larger Unity project aimed at building scalable systems using ScriptableObjects, data-driven design, and custom tooling. It played a key role in improving designer experience and maintaining clean data structures.
