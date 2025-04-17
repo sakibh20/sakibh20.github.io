@@ -3,6 +3,7 @@ template: SinglePost
 title: Virtual Cafela
 status: Published
 date: 2025-04-17
+featuredImage: https://ucarecdn.com/09c6e9db-2185-4454-a880-d2804708b273/
 excerpt: Robi Virtual Cafela is a pioneering VR experience developed for Robi
   Axiata Ltd.
 categories:
