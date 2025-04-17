@@ -3,6 +3,7 @@ template: SinglePost
 title: Grameen Phone Roaming Journey
 status: Published
 date: 2025-04-17
+featuredImage: https://ucarecdn.com/f74a3ac4-1544-4f28-bb82-4708550bb66d/
 excerpt: GP Roaming Journey is an immersive VR experience designed for
   Grameenphone (GP) to showcase the advancements in their international roaming
   services. Built using Unity and Oculus VR, the application takes users on a
