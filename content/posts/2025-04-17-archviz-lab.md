@@ -3,6 +3,7 @@ template: SinglePost
 title: Archviz Lab
 status: Published
 date: 2025-04-17
+featuredImage: https://ucarecdn.com/4b8416d8-8030-400e-9269-5e2c0cc5f219/
 excerpt: Archviz Lab is an Augmented Reality-based solution designed for
   Real-Estate and Architecture clients.
 categories:
