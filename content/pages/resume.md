@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: resume
 title: Resume
-featuredImage: https://ucarecdn.com/51856177-6939-4cfa-af8c-c8a994d09efa/-/preview/1000x706/
+featuredImage: https://ucarecdn.com/870a0b7d-6397-4b38-b0e3-2e209af24012/-/preview/1920x800/
 meta:
   description: null
   title: Resume of Sakib
