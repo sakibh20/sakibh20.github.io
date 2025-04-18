@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Moi
-featuredImage: https://ucarecdn.com/701301ca-50ef-49d5-a966-10aaa919a000/-/preview/744x200/
+featuredImage: https://ucarecdn.com/76db0e35-9511-4255-89c5-7b0bb139e579/-/preview/1000x350/
 subtitle: "# I'm Sakib.​ I develop Games & ​​Applications."
 meta:
   description: This is a meta description.

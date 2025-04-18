@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Any Queries?
-featuredImage: https://ucarecdn.com/701301ca-50ef-49d5-a966-10aaa919a000/-/preview/744x200/
+featuredImage: https://ucarecdn.com/76db0e35-9511-4255-89c5-7b0bb139e579/-/preview/1000x350/
 subtitle: C﻿ontact Me
 address: Vaajakatu 5 F, 33720 TAMPERE
 phone: "+358417432173"
