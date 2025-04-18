@@ -2,5 +2,5 @@
 template: BlogIndex
 title: Applications
 subtitle: ''
-featuredImage: 'https://ucarecdn.com/701301ca-50ef-49d5-a966-10aaa919a000/-/preview/744x200/'
+featuredImage: 'https://ucarecdn.com/20bdebf6-5f9f-430e-8124-4200fdc01143/-/preview/1920x900/'
 ---
