@@ -1,9 +1,9 @@
 ---
 template: ContactPage
 slug: contact
-title: Any Queries?
-featuredImage: https://ucarecdn.com/76db0e35-9511-4255-89c5-7b0bb139e579/-/preview/1000x350/
-subtitle: C﻿ontact Me
+title: Contact Me
+featuredImage: https://ucarecdn.com/51856177-6939-4cfa-af8c-c8a994d09efa/-/preview/1000x706/
+subtitle: If you have any queries
 address: Vaajakatu 5 F, 33720 TAMPERE
 phone: "+358417432173"
 email: sakibh20@gmail.com
