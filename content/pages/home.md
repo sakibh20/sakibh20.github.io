@@ -5,7 +5,7 @@ title: Moi
 featuredImage: https://ucarecdn.com/20bdebf6-5f9f-430e-8124-4200fdc01143/-/preview/1920x900/
 subtitle: "# I'm Sakib Hasan.​ I develop Games & ​​Applications."
 meta:
-  description: Explore the portfolio of MD SAKIB HASAN – Senior Game Developer with 6+ years of experience in Unity, AR/VR, multiplayer games, and interactive simulations. Check out his work on commercial, event, and research-based projects.
+  description: Explore Sakib Hasan's professional game development portfolio featuring Unity3D games, AR/VR experiences, multiplayer mechanics, and immersive interactive solutions.
   title: MD SAKIB HASAN | Game | AR/VR | Application Developer
 ---
 # Welcome to My Digital Playground
